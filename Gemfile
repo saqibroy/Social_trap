@@ -6,6 +6,7 @@ gem 'devise', '~> 3.5', '>= 3.5.6'
 gem "paperclip", "~> 4.3"
 gem "rolify"
 gem 'cancancan'
+gem 'bower'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
 # Use postgresql as the database for Active Record

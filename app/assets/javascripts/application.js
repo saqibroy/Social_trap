@@ -9,7 +9,6 @@
 //
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
-    
 //= require js/plugins/jquery/jquery.min
 //= require js/plugins/jquery/jquery-ui.min
 //= require js/plugins/bootstrap/bootstrap.min
