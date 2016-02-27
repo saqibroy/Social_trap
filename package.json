@@ -4,6 +4,7 @@
     "bower": "~1.2.8"
   },
   "dependencies": {
+    { "engines" : { "node": "4.1.2" } }
   },
   "license": "MIT",
   "engines": {
