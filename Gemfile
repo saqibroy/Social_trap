@@ -53,6 +53,8 @@ group :development do
 end
 group :production do
 	gem 'pg', '~> 0.15'
-    gem 'rails_12factor'
+end
+group :staging_new, :staging, :production do
+  gem 'rails_12factor' # To enable features such as static asset serving and logging on Heroku
 end
 
